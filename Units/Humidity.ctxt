@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=rawValue
+comment0.target=Humidity(int)
+comment0.text=\ Constructor\r\n\ \r\n\ @param\ rawValue\ \ -\ humidity\ \r\n
+comment1.params=rawValue
+comment1.target=void\ setValue(int)
+comment1.text=\r\n\ @param\ value\ \ \ -\ humidity\ \r\n
+comment2.params=
+comment2.target=double\ getValue()
+comment2.text=\r\n\ @return\ value\ \ \ -\ humidity\ \r\n
+numComments=3

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=rawValue
+comment0.target=SunTime(short)
+comment0.text=\ Constructor\r\n\ \r\n\ @param\ rawValue\ \ \ \ -\ value\ in\ whole\ numbers\r\n
+comment1.params=rawValue
+comment1.target=java.lang.String\ valueToString(short)
+comment1.text=\r\n\ Converts\ value\ to\ String\r\n\ \r\n\ @param\ rawValue\ \ \ \ -\ value\ in\ whole\ numbers\r\n\ @return\ time\ \ \ \ \ \ \ -\ string\ with\ digital\ time\ notation\ \r\n
+comment2.params=rawValue
+comment2.target=void\ setValue(short)
+comment2.text=\r\n\ @param\ rawValue\ \ \ \ -\ value\ in\ whole\ numbers\r\n
+comment3.params=
+comment3.target=short\ getRawValue()
+comment3.text=\r\n\ @return\ rawValue\ \ \ -\ value\ in\ whole\ numbers\r\n
+comment4.params=
+comment4.target=java.lang.String\ getValue()
+comment4.text=\r\n\ @return\ timestring\ \ -\ string\ with\ time\ notation\r\n
+numComments=5

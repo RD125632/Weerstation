@@ -1,0 +1,31 @@
+#BlueJ class context
+comment0.params=connector
+comment0.target=Backloader(Dbconnector)
+comment0.text=\ Constructor\r\n\ \r\n\ @param\ connector\ -\ Database\ connection\r\n
+comment1.params=
+comment1.target=void\ checkForMeasurements()
+comment1.text=\r\n\ \r\n
+comment10.params=hour
+comment10.target=java.util.ArrayList\ getAllMeasurementsLastHours(int)
+comment10.text=\r\n\ Get\ all\ measurements\ from\ (param\ hour)\r\n\ @params\ hour\ (Timespan\ \=\ hour)\r\n\ @return\ \ \ <code>Measurement</code>\r\n\ @since\ \ \ \ \ \ \ \ 1.0\r\n
+comment2.params=
+comment2.target=void\ measurmentsLister()
+comment3.params=
+comment3.target=java.util.ArrayList\ getMeasurements()
+comment4.params=m
+comment4.target=void\ addMeasurment(Objects.Measurement)
+comment5.params=list
+comment5.target=void\ addMeasurments(java.util.ArrayList)
+comment6.params=
+comment6.target=Objects.Measurement\ getMostRecentMeasurement()
+comment6.text=\r\n\ Construct\ Most\ Recent\ Measurement\ object\r\n\ @return\ \ \ <code>Measurement</code>\r\n\ @since\ \ \ \ \ \ \ \ 1.0\r\n
+comment7.params=
+comment7.target=java.util.ArrayList\ getAllMeasurements()
+comment7.text=\r\n\ Construct\ ArrayList\ from\ Measurement\ objects\r\n\ @return\ \ \ <code>Measurement</code>\r\n\ @since\ \ \ \ \ \ \ \ 1.0\r\n
+comment8.params=d1\ d2
+comment8.target=java.util.ArrayList\ getAllMeasurementsBetween(java.util.GregorianCalendar,\ java.util.GregorianCalendar)
+comment8.text=\r\n\ Get\ all\ measurements\ between\ Date\ 1\ &\ Date\ 2\r\n\ @params\ d1\ \ \ \ Begin\ datum\r\n\ @params\ d2\ \ \ \ Eind\ datum.\ d2\ >\=\ d1\r\n\ @return\ \ \ <code>Measurement</code>\r\n\ @since\ \ \ \ \ \ \ \ 1.0\r\n
+comment9.params=
+comment9.target=java.util.ArrayList\ getAllMeasurementsLast24h()
+comment9.text=\r\n\ Get\ all\ measurements\ from\ last\ 24\ hours\r\n\ @return\ \ \ <code>Measurement</code>\r\n\ @since\ \ \ \ \ \ \ \ 1.0\r\n
+numComments=11

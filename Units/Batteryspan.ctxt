@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=voltage
+comment0.target=Batteryspan(int)
+comment0.text=\ Constructor\ \r\n\ \r\n\ @param\ voltage\ \ \ -\ power\ level\ of\ weatherstation\r\n
+comment1.params=voltage
+comment1.target=void\ setValue(int)
+comment1.text=\r\n\ @param\ voltage\ \ \ -\ power\ level\ of\ weatherstation\r\n
+comment2.params=
+comment2.target=int\ getValue()
+comment2.text=\r\n\ @return\ battery\ -\ battery\ level\ of\ weatherstation\r\n
+numComments=3

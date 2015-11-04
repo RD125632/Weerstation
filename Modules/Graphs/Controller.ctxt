@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=graph
+comment0.target=void\ makeGraph(Graph)
+comment0.text=\r\n\ \r\n\ @param\ graph\ -\ Graph\ object\r\n
+comment1.params=min\ max
+comment1.target=void\ createAxis(double,\ double)
+comment1.text=\r\n\ \r\n\ @param\ min\ -\ minimum\ value\ in\ the\ whole\ graph\ spectrum\r\n\ @param\ max\ -\ maximum\ value\ in\ the\ whole\ graph\ spectrum\r\n\ \r\n
+comment2.params=data
+comment2.target=void\ writeGraph(double[])
+comment2.text=\r\n\ \r\n\ @param\ data\ -\ Array\ of\ doubles\ containing\ all\ values\ of\ specific\ period\ and\ physical\ quantity\r\n\ \r\n
+comment3.params=
+comment3.target=void\ clearDisplay()
+comment3.text=\r\n\ Clears\ the\ display\r\n
+comment4.params=
+comment4.target=void\ drawCanvas()
+comment4.text=\r\n\ Draws\ a\ canvas\ on\ the\ matixboard\r\n
+numComments=5

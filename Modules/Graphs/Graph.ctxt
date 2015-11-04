@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=dataList\ margin
+comment0.target=Graph(double[],\ double)
+comment0.text=\ Constructor\r\n\ \r\n\ @param\ dataList\ \ -\ \ Array\ of\ doubles\ containing\ all\ values\ of\ specific\ period\ and\ physical\ quantity\r\n\ @param\ margin\ -\ magin\ of\ the\ data\r\n\ \r\n
+comment1.params=
+comment1.target=double[]\ get()
+comment1.text=\r\n\ \r\n\ @return\ -\ return\ dataSet;\ array\ of\ doubles\ containing\ all\ values\ of\ a\ specific\ period\ and\ physical\ quantity\ \ \ \ \r\n
+comment2.params=data
+comment2.target=void\ set(double[])
+comment2.text=\r\n\ @param\ -\ array\ of\ doubles\ containing\ all\ values\ of\ a\ specific\ period\ and\ physical\ quantity\ \ \ \ \r\n
+comment3.params=data\ margin
+comment3.target=void\ normalizeData(double[],\ double)
+comment3.text=\ \r\n\ \r\n\ @param\ data\ -\ Array\ of\ doubles\ containing\ all\ values\ of\ specific\ period\ and\ physical\ quantity\r\n\ @param\ margin\ -\ magin\ of\ the\ data\r\n\ \r\n
+numComments=4

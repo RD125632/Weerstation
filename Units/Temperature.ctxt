@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=rawValue
+comment0.target=Temperature(short)
+comment0.text=\ Constructor\ \r\n\ \r\n\ @param\ rawValue\ \ \ -\ temperature\ in\ farhenheit\r\n
+comment1.params=rawValue
+comment1.target=double\ calculateTemperature(short)
+comment1.text=\r\n\ @param\ rawValue\ \ \ \ \ \ -\ temperature\ in\ farhenheit\r\n\ @return\ lastValue\ \ \ \ -\ temperature\ in\ celcius\r\n
+comment2.params=rawValue
+comment2.target=void\ setValue(short)
+comment2.text=\r\n\ @param\ rawValue\ \ -\ temperature\ in\ farhenheit\r\n
+comment3.params=
+comment3.target=short\ getRawValue()
+comment3.text=\r\n\ @return\ rawValue\ \ \ -\ temperature\ in\ farhenheit\r\n
+comment4.params=
+comment4.target=double\ getValue()
+comment4.text=\r\n\ @return\ value\ \ \ -\ temperature\ in\ celcius\r\n
+numComments=5

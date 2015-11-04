@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Dbconnector()
+comment0.text=\ Constructor\r\n\ Initialize\ Database\ Connection\r\n
+comment1.params=host\ port\ dbName\ username\ password
+comment1.target=Dbconnector(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\ Constructor\r\n\ \r\n\ @param\ host\ \ \ \ \ \ -\ Hosting\ adress\r\n\ @param\ port\ \ \ \ \ \ -\ Hosting\ port\r\n\ @param\ dbName\ \ \ \ -\ Database\ name\r\n\ @param\ username\ \ -\ Database\ username\r\n\ @param\ password\ \ -\ Database\ user\ password\r\n
+comment2.params=
+comment2.target=java.sql.Connection\ getConnection()
+comment2.text=\r\n\ @return\ myConn\ \ \ -\ Gives\ database\ connection\r\n
+numComments=3

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=temp\ wind\ hum
+comment0.target=CalcApparentTemp(double,\ double,\ double)
+comment0.text=\ Constructor\r\n\ \r\n\ @param\ temp\ -\ Double\ of\ temperature\r\n\ @param\ wind\ -\ Double\ of\ wind\ speed\r\n\ @param\ hum\ -\ Double\ of\ humidity\r\n
+comment1.params=
+comment1.target=void\ checkTemperature()
+comment1.text=\ \r\n\ \r\n
+comment2.params=temp\ wind
+comment2.target=double\ calculateChillIndex(double,\ double)
+comment2.text=\ \ \r\n\ @param\ temp\ -\ Double\ of\ temperature\r\n\ @param\ wind\ -\ Double\ of\ wind\ speed\r\n\ @return\ windChillIndex\ -\ Value\ of\ wind\ chill\ index\r\n
+comment3.params=temp\ hum
+comment3.target=double\ calculateHeatIndex(double,\ double)
+comment3.text=\ \ \r\n\ @param\ temp\ -\ Double\ of\ temperature\r\n\ @param\ wind\ -\ Double\ of\ wind\ speed\r\n\ @return\ windChillIndex\ -\ Value\ of\ heat\ index\r\n
+comment4.params=
+comment4.target=void\ setChillIndex()
+comment4.text=\ \ Set\ methods\r\n
+comment5.params=
+comment5.target=void\ setHeatIndex()
+comment6.params=
+comment6.target=double\ getChillIndex()
+comment6.text=\ \ Get\ methods\r\n\ @return\ chillIndex\ -\ double\r\n\ @return\ heatIndex\ -\ double\r\n
+comment7.params=
+comment7.target=double\ getHeatIndex()
+numComments=8
